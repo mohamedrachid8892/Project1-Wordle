@@ -1,4 +1,4 @@
-# Android Project 1 - *World*
+# Android Project 1 - *Wordle*
 
 Submitted by: **Mohamed Rachid**
 
